@@ -569,8 +569,8 @@ MonoBehaviour:
   ricktusRB: {fileID: 2057911512}
   movementSpeed: 15
   staminaLevel: 1
-  dashSpeed: 15
-  dashLength: 0.5
+  dashSpeed: 200
+  dashLength: 0.3
   dashBufferLength: 0.1
 --- !u!54 &2057911512
 Rigidbody:
